@@ -14,7 +14,7 @@
     <name>deskplus</name>
     <description>Desk Plus: SaaS Ticketing System</description>
     <properties>
-        <java.version>8</java.version>
+        <java.version>11</java.version>
     </properties>
     <dependencies>
         <dependency>
